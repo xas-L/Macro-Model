@@ -1,8 +1,8 @@
-# G4 Semi-Structural Macro-Financial Model
+# G4 Hybrid structure Macro-Financial Model
 
 ## Project Overview
 
-This project presents a Python-based semi-structural macro-financial model focused on the G4 economies: the United States (US), United Kingdom (UK), Japan (JP), and the Euro Area (EA). The primary objective is to provide a framework for:
+This project presents a Python-based hybrid structure macro-financial model focused on the G4 economies: the United States (US), United Kingdom (UK), Japan (JP), and the Euro Area (EA). The primary objective is to provide a framework for:
 
 * **Forecasting key macroeconomic and financial variables.**
 * **Conducting dynamic scenario analysis** to assess the impact of various economic shocks.
